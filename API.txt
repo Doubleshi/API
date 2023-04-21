@@ -1,0 +1,19 @@
+Class 6 - APIs
+Twitter Developer Account
+To create a Twitter Developer Account, make sure you have a Twitter account (if you already have one you may use that, but be aware we will be sending out tweets so you may want to create another account just for this class). Then go here and click 'Sign up'
+
+step1
+
+Then click 'Add App'
+
+step2
+
+Then select 'Development' for App Environment
+
+Capture3
+
+Give your app a name
+
+Capture4
+
+You will then see your API Key, API secret key, and bearer token. Be sure to save these somewhere! After hitting ok, you should be on the Settings Page for you app. Scroll down to User authentication settings and hit 'Set up'.
